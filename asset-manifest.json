@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sendhooransaravanan/Clone_Weather_Application/static/css/main.6192b481.css",
+    "main.js": "/sendhooransaravanan/Clone_Weather_Application/static/js/main.1e536b64.js",
+    "static/js/787.82cdd233.chunk.js": "/sendhooransaravanan/Clone_Weather_Application/static/js/787.82cdd233.chunk.js",
+    "static/media/cloud.png": "/sendhooransaravanan/Clone_Weather_Application/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/sendhooransaravanan/Clone_Weather_Application/index.html",
+    "main.6192b481.css.map": "/sendhooransaravanan/Clone_Weather_Application/static/css/main.6192b481.css.map",
+    "main.1e536b64.js.map": "/sendhooransaravanan/Clone_Weather_Application/static/js/main.1e536b64.js.map",
+    "787.82cdd233.chunk.js.map": "/sendhooransaravanan/Clone_Weather_Application/static/js/787.82cdd233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6192b481.css",
+    "static/js/main.1e536b64.js"
+  ]
+}
